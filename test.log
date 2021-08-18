@@ -1,0 +1,5 @@
+2021-08-18 18:37:38,600  - ERROR - __main__ - Can't divide by Zero
+Traceback (most recent call last):
+  File "demo_cal.py", line 36, in div
+    result = a/b
+ZeroDivisionError: division by zero
